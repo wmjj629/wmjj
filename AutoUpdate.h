@@ -1,3 +1,4 @@
+// 브랜치 커밋 테스트
 #ifndef _AUTO_UPDATE_H_
 #define _AUTO_UPDATE_H_
 
